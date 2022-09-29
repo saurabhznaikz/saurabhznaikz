@@ -9,6 +9,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhznaikz?tab=repositories](https://github.com/saurabhznaikz?tab=repositories)
 
 - 📫 How to reach me **naiksaurabhd@gmail.com**
+- 📫 How to reach me at linkedIn **https://www.linkedin.com/in/saurabh-naik-981b611a3/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
