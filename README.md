@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **naiksaurabhd@gmail.com**
 - 📫 How to reach me at linkedIn **https://www.linkedin.com/in/saurabh-naik-981b611a3/**
+- 📫 Checkout my personal portfolio at **https://saurabhznaikz.github.io/Saurabh_Portfolio/**
 
 
 <h3 align="left">Connect with me:</h3>
